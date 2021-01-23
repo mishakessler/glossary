@@ -5,8 +5,6 @@
 <br>
 
 > _Last Updated: 01/23/2021_
->
-> _Please Note: This guide is written for novice software engineers who need to determine the key aspects of their computer setup before installing software._
 
 <br>
 
