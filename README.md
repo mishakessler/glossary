@@ -198,6 +198,10 @@ top-level domain
 
 ### U — V
 
+ui (acronym)
+
+user interface
+
 visual studio code
 
 <br>
