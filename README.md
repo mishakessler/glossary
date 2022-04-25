@@ -1,10 +1,4 @@
-# A Glossary for Software Engineering Students <!-- omit in toc -->
-
-**A thorough glossary for new software engineers or non-technical professionals.**
-
-<br>
-
-> _Last Updated: 01/23/2021_
+# Glossary for Software Engineering Students <!-- omit in toc -->
 
 <br>
 
@@ -24,27 +18,46 @@
   - [U — V](#u--v)
   - [W — X](#w--x)
   - [Y — Z](#y--z)
-- [REQUESTED](#requested)
 
 <br>
 
 ### A — B
 
+ajax
+
 algorithm
 
-api (acronym; see [application programming interface])
+amazon web services (related: [cdk], [cognito], [lambda], [s3])
+
+angular
+
+api (see [application programming interface])
 
 application programming interface
 
+atom
+
 attribute
 
+aws (see [amazon web services])
+
+azure
+
 babel
+
+backend
+
+bash
 
 binary
 
 bootstrap
 
+bot
+
 browser
+
+browser api
 
 <br>
 
@@ -54,17 +67,39 @@ browser
 
 ### C — D
 
+c#
+
+c++
+
 cache
+
+cascading style sheets
+
+cdk
+
+ci (see [continuous integration])
 
 classes
 
+cli (see [command line interface])
+
 compiler
+
+css (see [cascading style sheets])
 
 component
 
+dependency
+
 deployment
 
+django
+
+docker
+
 domain
+
+dynamodb
 
 <br>
 
@@ -76,11 +111,23 @@ domain
 
 ecma
 
+electron
+
+emulator
+
 engine
 
 environment
 
+eslint
+
+express
+
+flask
+
 framework
+
+front end
 
 function
 
@@ -92,9 +139,29 @@ function
 
 ### G — H
 
+git
+
+github
+
+go
+
+gradle
+
+graphql
+
+gulp
+
 hash
 
+haskell
+
 high-level
+
+homebrew
+
+html
+
+http
 
 <br>
 
@@ -104,10 +171,17 @@ high-level
 
 ### I — J
 
+java
+
 javascript
 
-js
+jekyll
 
+jquery
+
+js (see [javascript])
+
+json
 
 <br>
 
@@ -119,7 +193,19 @@ js
 
 key-value
 
+kotlin
+
+kubernetes
+
+lambda
+
+laravel
+
+library
+
 local storage
+
+linux
 
 <br>
 
@@ -129,18 +215,41 @@ local storage
 
 ### M — N
 
+machine learning
+
 mamp
+
+markdown
+
+material design
+
+maven
 
 mern
 
 method
 
+ml (see [machine learning])
+
+mongodb
+
+mongoose
+
+mysql
+
+nativescript
+
+natural language processing
+
+nlp (see [natural language processing])
+
 node
+
+nosql
 
 npm
 
 nvm
-
 
 <br>
 
@@ -152,7 +261,13 @@ nvm
 
 objects
 
+package
+
+package manager
+
 parser
+
+postgresql
 
 pwa
 
@@ -168,13 +283,21 @@ python (py)
 
 ### Q — R
 
+rails
+
 rbenv
+
+rdbms
+
+react
+
+react native
+
+redux
 
 repl
 
 ruby
-
-ruby on rails
 
 runtime
 
@@ -186,9 +309,35 @@ runtime
 
 ### S — T
 
-spa
+sass
+
+search engine optimization
+
+seo (see [search engine optimization])
+
+server
+
+serverless
+
+shell
+
+single page application
+
+spa (see [single page application])
+
+swift
+
+tdd (see [test-driven development])
+
+terminal
+
+test-driven development
+
+tld (see [top-level domain])
 
 top-level domain
+
+typescript
 
 <br>
 
@@ -198,11 +347,17 @@ top-level domain
 
 ### U — V
 
-ui (acronym)
+ui (see [user interface])
+
+user experience
 
 user interface
 
+vim
+
 visual studio code
+
+vue.js
 
 <br>
 
@@ -213,6 +368,10 @@ visual studio code
 ### W — X
 
 webpack
+
+xd
+
+xml
 
 <br>
 
@@ -228,15 +387,7 @@ webpack
 
 <br>
 
-*** 
-
-## REQUESTED
-
-<br>
-
-[back to top]
-
-<br>
+***
 
 <!-- Links -->
 [Guide to Determining Your Environment]: github.com/mishakessler/determine-your-environment
