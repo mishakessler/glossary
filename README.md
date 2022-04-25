@@ -1,4 +1,4 @@
-# Glossary for Software Engineering Students <!-- omit in toc -->
+# Glossary for Novice Software Engineers <!-- omit in toc -->
 
 <br>
 
