@@ -23,41 +23,27 @@
 
 ### A — B
 
-ajax
-
-algorithm
-
-amazon web services (related: [cdk], [cognito], [lambda], [s3])
-
-angular
-
-api (see [application programming interface])
-
-application programming interface
-
-atom
-
-attribute
-
-aws (see [amazon web services])
-
-azure
-
-babel
-
-backend
-
-bash
-
-binary
-
-bootstrap
-
-bot
-
-browser
-
-browser api
+|                                   |                                                                                                                      |
+| :-------------------------------- | :------------------------------------------------------------------------------------------------------------------- |
+| ajax                              | acronym, asyncronous JavaScript and xml; the practice of using an XMLHttpRequest object to communicate with a server |
+| algorithm                         | a program which attempts to resolve an operation with a given input and expected output, efficiently and elegantly   |
+| amazon web services               | a collection of on-demand cloud computing platforms from amazon; see also: [cdk], [cognito], [lambda], and [s3]      |
+| angular                           | a modern framework and toolset for JavaScript development, similar to React, based on TypeScript                     |
+| api                               | acronym, [application programming interface]                                                                         |
+| application programming interface | a software intermediary which facilitates the ability for two applications to communicate                            |
+| asdf                              | an extendable, plugin-based software version manager for the CLI, similar to [nvm] and [rbenv]                       |
+| atom                              | a desktop [ide] built on electron, similar to [vscode] and [xcode]                                                   |
+| attribute                         | a specification which defines a property of an element or object                                                     |
+| aws                               | acronym, [amazon web services]                                                                                       |
+| azure                             | a collection of on-demand cloud computing platforms from microsoft, similar to [aws]                                 |
+| babel                             |                                                                                                                      |
+| backend                           |                                                                                                                      |
+| bash                              |                                                                                                                      |
+| binary                            |                                                                                                                      |
+| bootstrap                         |                                                                                                                      |
+| bot                               |                                                                                                                      |
+| browser                           |                                                                                                                      |
+| browser api                       |                                                                                                                      |
 
 <br>
 
@@ -79,7 +65,7 @@ cdk
 
 ci (see [continuous integration])
 
-classes
+class
 
 cli (see [command line interface])
 
@@ -98,6 +84,8 @@ django
 docker
 
 domain
+
+dropwizard
 
 dynamodb
 
@@ -123,6 +111,8 @@ eslint
 
 express
 
+fastapi
+
 flask
 
 framework
@@ -142,6 +132,8 @@ function
 git
 
 github
+
+gitlab
 
 go
 
@@ -170,6 +162,8 @@ http
 <br>
 
 ### I — J
+
+ide (see [integrated development environment])
 
 java
 
@@ -235,11 +229,15 @@ mongodb
 
 mongoose
 
+mvc (related: [mvw], [mvvm])
+
 mysql
 
 nativescript
 
 natural language processing
+
+nextjs
 
 nlp (see [natural language processing])
 
@@ -268,6 +266,8 @@ package manager
 parser
 
 postgresql
+
+pub/sub
 
 pwa
 
@@ -311,6 +311,8 @@ runtime
 
 sass
 
+sast (see [static application security testing])
+
 search engine optimization
 
 seo (see [search engine optimization])
@@ -323,11 +325,17 @@ shell
 
 single page application
 
+static application security testing
+
 spa (see [single page application])
+
+swagger
 
 swift
 
 tdd (see [test-driven development])
+
+terraform
 
 terminal
 
@@ -368,6 +376,8 @@ vue.js
 ### W — X
 
 webpack
+
+xcode
 
 xd
 
