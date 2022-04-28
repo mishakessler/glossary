@@ -51,43 +51,28 @@
 
 <br>
 
-### C — D
+### C — D 
 
-c#
-
-c++
-
-cache
-
-cascading style sheets
-
-cdk
-
-ci (see [continuous integration])
-
-class
-
-cli (see [command line interface])
-
-compiler
-
-css (see [cascading style sheets])
-
-component
-
-dependency
-
-deployment
-
-django
-
-docker
-
-domain
-
-dropwizard
-
-dynamodb
+|                                    |      |
+| :--------------------------------- | :--- |
+| c#                                 |      |
+| c++                                |      |
+| cache                              |      |
+| cascading style sheets             |      |
+| cdk                                |      |
+| ci (see [continuous integration])  |      |
+| class                              |      |
+| cli (see [command line interface]) |      |
+| compiler                           |      |
+| css (see [cascading style sheets]) |      |
+| component                          |      |
+| dependency                         |      |
+| deployment                         |      |
+| django                             |      |
+| docker                             |      |
+| domain                             |      |
+| dropwizard                         |      |
+| dynamodb                           |      |
 
 <br>
 
@@ -97,29 +82,20 @@ dynamodb
 
 ### E — F
 
-ecma
-
-electron
-
-emulator
-
-engine
-
-environment
-
-eslint
-
-express
-
-fastapi
-
-flask
-
-framework
-
-front end
-
-function
+|             |      |
+| :---------- | :--- |
+| ecma        |      |
+| electron    |      |
+| emulator    |      |
+| engine      |      |
+| environment |      |
+| eslint      |      |
+| express     |      |
+| fastapi     |      |
+| flask       |      |
+| framework   |      |
+| front end   |      |
+| function    |      |
 
 <br>
 
@@ -129,31 +105,21 @@ function
 
 ### G — H
 
-git
-
-github
-
-gitlab
-
-go
-
-gradle
-
-graphql
-
-gulp
-
-hash
-
-haskell
-
-high-level
-
-homebrew
-
-html
-
-http
+|            |      |
+| :--------- | :--- |
+| git        |      |
+| github     |      |
+| gitlab     |      |
+| go         |      |
+| gradle     |      |
+| graphql    |      |
+| gulp       |      |
+| hash       |      |
+| haskell    |      |
+| high-level |      |
+| homebrew   |      |
+| html       |      |
+| http       |      |
 
 <br>
 
@@ -163,19 +129,15 @@ http
 
 ### I — J
 
-ide (see [integrated development environment])
-
-java
-
-javascript
-
-jekyll
-
-jquery
-
-js (see [javascript])
-
-json
+|                                                |      |
+| :--------------------------------------------- | :--- |
+| ide (see [integrated development environment]) |      |
+| java                                           |      |
+| javascript                                     |      |
+| jekyll                                         |      |
+| jquery                                         |      |
+| js (see [javascript])                          |      |
+| json                                           |      |
 
 <br>
 
@@ -185,21 +147,16 @@ json
 
 ### K — L
 
-key-value
-
-kotlin
-
-kubernetes
-
-lambda
-
-laravel
-
-library
-
-local storage
-
-linux
+|               |      |
+| :------------ | :--- |
+| key-value     |      |
+| kotlin        |      |
+| kubernetes    |      |
+| lambda        |      |
+| laravel       |      |
+| library       |      |
+| local storage |      |
+| linux         |      |
 
 <br>
 
@@ -209,45 +166,28 @@ linux
 
 ### M — N
 
-machine learning
-
-mamp
-
-markdown
-
-material design
-
-maven
-
-mern
-
-method
-
-ml (see [machine learning])
-
-mongodb
-
-mongoose
-
-mvc (related: [mvw], [mvvm])
-
-mysql
-
-nativescript
-
-natural language processing
-
-nextjs
-
-nlp (see [natural language processing])
-
-node
-
-nosql
-
-npm
-
-nvm
+|                                         |      |
+| :-------------------------------------- | :--- |
+| machine learning                        |      |
+| mamp                                    |      |
+| markdown                                |      |
+| material design                         |      |
+| maven                                   |      |
+| mern                                    |      |
+| method                                  |      |
+| ml (see [machine learning])             |      |
+| mongodb                                 |      |
+| mongoose                                |      |
+| mvc (related: [mvw], [mvvm])            |      |
+| mysql                                   |      |
+| nativescript                            |      |
+| natural language processing             |      |
+| nextjs                                  |      |
+| nlp (see [natural language processing]) |      |
+| node                                    |      |
+| nosql                                   |      |
+| npm                                     |      |
+| nvm                                     |      |
 
 <br>
 
@@ -257,49 +197,35 @@ nvm
 
 ### O — P
 
-objects
-
-package
-
-package manager
-
-parser
-
-postgresql
-
-pub/sub
-
-pwa
-
-pyenv
-
-python (py)
-
-<br>
+|                 |      |
+| :-------------- | :--- |
+| objects         |      |
+| package         |      |
+| package manager |      |
+| parser          |      |
+| postgresql      |      |
+| pub/sub         |      |
+| pwa             |      |
+| pyenv           |      |
+| python (py)     |      |
+| <br>            |      |
 
 [back to top]
 
 <br>
 
 ### Q — R
-
-rails
-
-rbenv
-
-rdbms
-
-react
-
-react native
-
-redux
-
-repl
-
-ruby
-
-runtime
+|              |      |
+| :----------- | :--- |
+| rails        |      |
+| rbenv        |      |
+| rdbms        |      |
+| react        |      |
+| react native |      |
+| redux        |      |
+| repl         |      |
+| ruby         |      |
+| runtime      |      |
 
 <br>
 
@@ -309,43 +235,27 @@ runtime
 
 ### S — T
 
-sass
-
-sast (see [static application security testing])
-
-search engine optimization
-
-seo (see [search engine optimization])
-
-server
-
-serverless
-
-shell
-
-single page application
-
-static application security testing
-
-spa (see [single page application])
-
-swagger
-
-swift
-
-tdd (see [test-driven development])
-
-terraform
-
-terminal
-
-test-driven development
-
-tld (see [top-level domain])
-
-top-level domain
-
-typescript
+|                                                  |      |
+| :----------------------------------------------- | :--- |
+| sass                                             |      |
+| sast (see [static application security testing]) |      |
+| search engine optimization                       |      |
+| seo (see [search engine optimization])           |      |
+| server                                           |      |
+| serverless                                       |      |
+| shell                                            |      |
+| single page application                          |      |
+| static application security testing              |      |
+| spa (see [single page application])              |      |
+| swagger                                          |      |
+| swift                                            |      |
+| tdd (see [test-driven development])              |      |
+| terraform                                        |      |
+| terminal                                         |      |
+| test-driven development                          |      |
+| tld (see [top-level domain])                     |      |
+| top-level domain                                 |      |
+| typescript                                       |      |
 
 <br>
 
@@ -355,17 +265,14 @@ typescript
 
 ### U — V
 
-ui (see [user interface])
-
-user experience
-
-user interface
-
-vim
-
-visual studio code
-
-vue.js
+|                           |      |
+| :------------------------ | :--- |
+| ui (see [user interface]) |      |
+| user experience           |      |
+| user interface            |      |
+| vim                       |      |
+| visual studio code        |      |
+| vue.js                    |      |
 
 <br>
 
@@ -375,13 +282,12 @@ vue.js
 
 ### W — X
 
-webpack
-
-xcode
-
-xd
-
-xml
+|         |      |
+| :------ | :--- |
+| webpack |      |
+| xcode   |      |
+| xd      |      |
+| xml     |      |
 
 <br>
 
