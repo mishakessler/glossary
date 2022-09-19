@@ -71,6 +71,7 @@
 | django                             |      |
 | docker                             |      |
 | domain                             |      |
+| domain-driven design               |      |
 | dropwizard                         |      |
 | dynamodb                           |      |
 
@@ -120,6 +121,7 @@
 | homebrew   |      |
 | html       |      |
 | http       |      |
+| husky      |      |
 
 <br>
 
@@ -135,6 +137,7 @@
 | java                                           |      |
 | javascript                                     |      |
 | jekyll                                         |      |
+| jest                                           |      |
 | jquery                                         |      |
 | js (see [javascript])                          |      |
 | json                                           |      |
@@ -204,6 +207,7 @@
 | package manager |      |
 | parser          |      |
 | postgresql      |      |
+| prettier        |      |
 | pub/sub         |      |
 | pwa             |      |
 | pyenv           |      |
