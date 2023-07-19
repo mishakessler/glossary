@@ -307,7 +307,15 @@
 
 <br>
 
-snowplow, mixpanel
+### Unsorted
+
+snowplow, mixpanel,
+
+event-driven architecture, dead-letter queues, poison events, request stream map, enterprise service bus, event bridge/event stream,
+
+idempotency,
+
+micro-frontend, microservices,
 
 ***
 
