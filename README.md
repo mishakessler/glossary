@@ -1,5 +1,7 @@
 # Glossary for Novice Software Engineers <!-- omit in toc -->
 
+To all novice software engineers, this glossary was made for you. Remember, it’s okay not to know everything– even the most experienced among us will constantly be exposed to new tools, topics, and terms– but what sets great engineers apart is stubborn curiosity and a willingness to acknowledge what they don't know. After all, learning how to find answers is just as important as knowing them.
+
 <br>
 
 ## TABLE OF CONTENTS <!-- omit in toc -->
