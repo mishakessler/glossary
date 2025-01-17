@@ -19,14 +19,14 @@
 | :-------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | abstraction                       | A core principle of object-oriented programming; the practice of hiding complex implementation details and exposing only essential functionalities to simplify code.             |
 | agile                             | A methodology for iterative and incremental software development.                                                                                                                |
-| ajax                              | Acronym for [Asyncronous JavaScript and Xml], the practice of using an XMLHttpRequest object to communicate with a server.                                                       |
+| ajax                              | Acronym for [Asyncronous JavaScript and Xml]; a client data fetching technique that makes asynchronous HTTP requests and updates the page without a refresh.                     |
 | algorithm                         | A program which attempts to resolve an operation with a given input and expected output, efficiently and elegantly.                                                              |
 | amazon web services               | A collection of on-demand cloud computing platforms from amazon; see also: [cdk], [cognito], [lambda], and [s3].                                                                 |
 | angular                           | A modern framework and toolset for JavaScript development, similar to [react], based on [typescript].                                                                            |
 | api                               | Acronym; see [application programming interface].                                                                                                                                |
-| application programming interface | A software intermediary which facilitates the ability for two applications to communicate.                                                                                       |
+| application programming interface | A software intermediary which enables the ability for two layers or applications to communicate.                                                                                 |
 | asdf                              | An extendable, plugin-based software version manager for the CLI, similar to [nvm] and [rbenv].                                                                                  |
-| async                             | Abbreviation for [asynchronous], a paradigm that allows functions or tasks to run independently of the main execution thread, preventing blocking operations.                    |
+| async                             | Abbreviation for [asynchronous]; a paradigm that allows functions or tasks to run independently of the main execution thread, preventing blocking operations.                    |
 | atom                              | A desktop [ide] built on [electron], similar to [vscode] and [xcode].                                                                                                            |
 | attribute                         | A specification which defines a property of an element or object.                                                                                                                |
 | aws                               | Acronym; see [amazon web services].                                                                                                                                              |
@@ -46,7 +46,7 @@
 | cacheability                      | A core principle of RESTful APIs; resources should cacheable to improve performance and reduce redundant requests, and responses should explicitly define cacheing restrictions. |
 | cascading style sheets            | A stylesheet language used to define the presentation and style of documents written in HTML or XML.                                                                             |
 | cd                                | Acronym; see [continuous delivery].                                                                                                                                              |
-| cdk                               | Acronym for [Cloud Development Kit], an AWS framework for defining cloud infrastructure as code using programming languages like TypeScript or Python.                           |
+| cdk                               | Acronym for [Cloud Development Kit]; an AWS framework for defining cloud infrastructure as code using programming languages like TypeScript or Python.                           |
 | ci                                | Acronym; see [continuous integration].                                                                                                                                           |
 | class                             | A blueprint for creating objects in object-oriented programming, defining their properties and behavior.                                                                         |
 | cli                               | Acronym; see [command line interface].                                                                                                                                           |
@@ -56,8 +56,8 @@
 | command line interface            | A text-based interface used to interact with software or the operating system through commands.                                                                                  |
 | component                         | A modular and reusable piece of a software application, often used in UI development frameworks like React or Angular.                                                           |
 | containerization                  | A lightweight form of virtualization for deploying applications in isolated environments.                                                                                        |
-| continuous delivery               | A practice of automating the release of software to production                                                                                                                   |
-| continuous integration            | A practice of automating the testing and merging of software                                                                                                                     |
+| continuous delivery               | A practice of automating the release of software to production.                                                                                                                  |
+| continuous integration            | A practice of automating the testing and merging of software.                                                                                                                    |
 | css                               | Acronym; see [cascading style sheets].                                                                                                                                           |
 | dead-letter queues                | A messaging queue used to store messages that cannot be processed or delivered by a target queue.                                                                                |
 | dependency                        | A library, framework, or module that a project relies on for additional functionality.                                                                                           |
@@ -92,6 +92,7 @@
 | event stream              | A continuous flow of event data transmitted in real-time for processing or analysis.                                                                                               |
 | express                   | A minimalist web framework for Node.js, often used to build APIs and web applications.                                                                                             |
 | fastapi                   | A modern Python web framework for building APIs with high performance and easy-to-use features.                                                                                    |
+| fetch                     | An API and method (`Window.fetch()`) for fetching data from a server.                                                                                                              |
 | flask                     | A lightweight Python web framework suitable for building small to medium-sized applications.                                                                                       |
 | framework                 | A collection of pre-written code that provides a structure and common functionality for building applications.                                                                     |
 | front-end                 | The client-side part of a software application that interacts directly with the user, typically involving HTML, CSS, and JavaScript.                                               |
@@ -130,7 +131,7 @@
 | jekyll                             | A static site generator often used with GitHub Pages to create blogs and websites.                                                                                                |
 | jest                               | A JavaScript testing framework designed to ensure code correctness through unit and integration tests.                                                                            |
 | jquery                             | A JavaScript library that simplifies HTML document traversal, event handling, and animations.                                                                                     |
-| js                                 | Acronym; see [javascript].                                                                                                                                                        |
+| js                                 | Acronym; see [JavaScript].                                                                                                                                                        |
 | json                               | Acronym for [JavaScript Object Notation], a lightweight data-interchange format that is easy for humans to read and write.                                                        |
 | key-value                          | A data storage format where each item is represented by a key and an associated value.                                                                                            |
 | kotlin                             | A statically typed programming language interoperable with Java, commonly used for Android development.                                                                           |
@@ -150,49 +151,49 @@
 
 ## M — P
 
-|                              |                                                                                                                                                                                           |
-| :--------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| machine learning             | A subset of artificial intelligence focused on building systems that learn from data.                                                                                                     |
-| mamp                         | A local server stack for macOS, including Apache, MySQL, and PHP.                                                                                                                         |
-| markdown                     | A lightweight markup language for creating formatted text using a plain-text editor.                                                                                                      |
-| material design              | A design language created by Google emphasizing grid-based layouts, responsive animations, and depth effects.                                                                             |
-| maven                        | A build automation and dependency management tool primarily used in Java projects.                                                                                                        |
-| mern                         | A stack of technologies (MongoDB, Express, React, and Node.js) for building web applications.                                                                                             |
-| method                       | A function associated with an object or class in object-oriented programming.                                                                                                             |
-| micro-frontend               | An architectural style where a frontend application is broken into smaller, independent pieces that can be developed and deployed separately.                                             |
-| microservices                | An architectural approach to building software as a collection of small, independently deployable services, each with a specific business functionality.                                  |
-| mixpanel                     | An analytics tool that helps track user interactions and behavior within applications for data-driven decisions.                                                                          |
-| ml                           | Acronym; see [machine learning].                                                                                                                                                          |
-| mongodb                      | A NoSQL database that uses JSON-like documents to store data.                                                                                                                             |
-| mongoose                     | An object data modeling library for MongoDB in Node.js.                                                                                                                                   |
-| mvc (related: [mvw], [mvvm]) | A software design pattern that separates an application into Model, View, and Controller components.                                                                                      |
-| mysql                        | A widely used open-source relational database management system.                                                                                                                          |
-| nativescript                 | A framework for building cross-platform mobile apps using JavaScript or TypeScript.                                                                                                       |
-| natural language processing  | A field of AI focused on enabling machines to understand and process human language.                                                                                                      |
-| nextjs                       | A React framework for building fast, server-rendered web applications.                                                                                                                    |
-| nlp                          | Acronym; see [natural language processing].                                                                                                                                               |
-| node                         | Node.js, a runtime environment for executing JavaScript code outside the browser.                                                                                                         |
-| nosql                        | A category of databases that store data in formats other than traditional relational tables.                                                                                              |
-| npm                          | Node Package Manager, a tool for managing JavaScript packages and dependencies.                                                                                                           |
-| nvm                          | Node Version Manager, a tool for managing and switching between multiple Node.js versions.                                                                                                |
-| object data modeling         | The process of defining/structuring data for an application by representing database documents or records as objects in code.                                                             |
-| object-oriented programming  | A programming paradigm based on the concept of objects, which encapsulate data (attributes) and behavior (methods). (OOP languages include [Java], [JavaScript], [Python], and [C++].)    |
-| objects                      | Data structures that encapsulate properties and behaviors in object-oriented programming.                                                                                                 |
-| odm                          | Acronym; see [object data modeling].                                                                                                                                                      |
-| oop                          | Acronym; see [object-oriented programming].                                                                                                                                               |
-| package                      | A bundle of code or libraries distributed for reuse in software development.                                                                                                              |
-| package manager              | A tool for installing, updating, and managing software packages, such as npm or pip.                                                                                                      |
-| parser                       | A program or library that analyzes code or text to extract meaningful structure or data.                                                                                                  |
-| postgresql                   | A powerful, open-source object-relational database system.                                                                                                                                |
-| poison events                | Messages or events that repeatedly fail processing due to errors or incompatibilities in the system.                                                                                      |
-| polymorphism                 | A core principle of object-oriented programming; the practice of enabling different objects to respond uniquely to the same method or function call, allowing flexibility and code reuse. |
-| prettier                     | A code formatter that enforces a consistent style across a codebase.                                                                                                                      |
-| progressive web app          | A type of web app that behaves like a native app on mobile devices.                                                                                                                       |
-| pub/sub                      | A messaging pattern where publishers send messages to subscribers via a central broker.                                                                                                   |
-| pwa                          | Acronym; see [progressive web app].                                                                                                                                                       |
-| pyenv                        | A Python version manager for installing and managing multiple Python versions.                                                                                                            |
-| py                           | Abbreviation; see [python].                                                                                                                                                               |
-| python (py)                  | A high-level programming language known for its simplicity and readability.                                                                                                               |
+|                             |                                                                                                                                                                                           |
+| :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| machine learning            | A subset of artificial intelligence focused on building systems that learn from data.                                                                                                     |
+| mamp                        | A local server stack for macOS, including Apache, MySQL, and PHP.                                                                                                                         |
+| markdown                    | A lightweight markup language for creating formatted text using a plain-text editor.                                                                                                      |
+| material design             | A design language created by Google emphasizing grid-based layouts, responsive animations, and depth effects.                                                                             |
+| maven                       | A build automation and dependency management tool primarily used in Java projects.                                                                                                        |
+| mern                        | A stack of technologies (MongoDB, Express, React, and Node.js) for building web applications.                                                                                             |
+| method                      | A function associated with an object or class in object-oriented programming.                                                                                                             |
+| micro-frontend              | An architectural style where a frontend application is broken into smaller, independent pieces that can be developed and deployed separately.                                             |
+| microservices               | An architectural approach to building software as a collection of small, independently deployable services, each with a specific business functionality.                                  |
+| mixpanel                    | An analytics tool that helps track user interactions and behavior within applications for data-driven decisions.                                                                          |
+| ml                          | Acronym; see [machine learning].                                                                                                                                                          |
+| mongodb                     | A NoSQL database that uses JSON-like documents to store data.                                                                                                                             |
+| mongoose                    | An object data modeling library for MongoDB in Node.js.                                                                                                                                   |
+| mvc                         | A software design pattern that separates an application into Model, View, and Controller components. (related: [mvw], [mvvm])                                                             |
+| mysql                       | A widely used open-source relational database management system.                                                                                                                          |
+| nativescript                | A framework for building cross-platform mobile apps using JavaScript or TypeScript.                                                                                                       |
+| natural language processing | A field of AI focused on enabling machines to understand and process human language.                                                                                                      |
+| nextjs                      | A React framework for building fast, server-rendered web applications.                                                                                                                    |
+| nlp                         | Acronym; see [natural language processing].                                                                                                                                               |
+| node                        | Node.js, a runtime environment for executing JavaScript code outside the browser.                                                                                                         |
+| nosql                       | A category of databases that store data in formats other than traditional relational tables.                                                                                              |
+| npm                         | Node Package Manager, a tool for managing JavaScript packages and dependencies.                                                                                                           |
+| nvm                         | Node Version Manager, a tool for managing and switching between multiple Node.js versions.                                                                                                |
+| object data modeling        | The process of defining/structuring data for an application by representing database documents or records as objects in code.                                                             |
+| object-oriented programming | A programming paradigm based on the concept of objects, which encapsulate data (attributes) and behavior (methods). (OOP languages include [Java], [JavaScript], [Python], and [C++].)    |
+| objects                     | Data structures that encapsulate properties and behaviors in object-oriented programming.                                                                                                 |
+| odm                         | Acronym; see [object data modeling].                                                                                                                                                      |
+| oop                         | Acronym; see [object-oriented programming].                                                                                                                                               |
+| package                     | A bundle of code or libraries distributed for reuse in software development.                                                                                                              |
+| package manager             | A tool for installing, updating, and managing software packages, such as npm or pip.                                                                                                      |
+| parser                      | A program or library that analyzes code or text to extract meaningful structure or data.                                                                                                  |
+| postgresql                  | A powerful, open-source object-relational database system.                                                                                                                                |
+| poison events               | Messages or events that repeatedly fail processing due to errors or incompatibilities in the system.                                                                                      |
+| polymorphism                | A core principle of object-oriented programming; the practice of enabling different objects to respond uniquely to the same method or function call, allowing flexibility and code reuse. |
+| prettier                    | A code formatter that enforces a consistent style across a codebase.                                                                                                                      |
+| progressive web app         | A type of web app that behaves like a native app on mobile devices.                                                                                                                       |
+| pub/sub                     | A messaging pattern where publishers send messages to subscribers via a central broker.                                                                                                   |
+| pwa                         | Acronym; see [progressive web app].                                                                                                                                                       |
+| pyenv                       | A Python version manager for installing and managing multiple Python versions.                                                                                                            |
+| py                          | Abbreviation; see [python].                                                                                                                                                               |
+| python (py)                 | A high-level programming language known for its simplicity and readability.                                                                                                               |
 
 <br>
 
@@ -259,8 +260,8 @@
 | webpack            | A module bundler for JavaScript that packages files and dependencies for the browser.                                                        |
 | xcode              | An [ide] for macOS used for building apps for Apple platforms.                                                                               |
 | xd                 | Adobe XD, a vector-based UI/UX design tool for creating prototypes and wireframes.                                                           |
-| xml                | Acronym for [Extensible Markup Language], a flexible text format for structuring and storing data.                                           |
-| yaml               | Acronym for [Yet Another Markup Language], a human-readable format for data serialization.                                                   |
+| xml                | Acronym for [Extensible Markup Language]; a flexible text format for structuring and storing data.                                           |
+| yaml               | Acronym for [Yet Another Markup Language]; a human-readable format for data serialization.                                                   |
 | zsh                | Z shell, an extended Unix shell with additional features over bash.                                                                          |
 
 <br>
